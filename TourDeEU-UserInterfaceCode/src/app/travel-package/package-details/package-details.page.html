@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-button slot="start">
+        <ion-back-button defaultHref="/travel-package"></ion-back-button>
+    </ion-button>
+    <ion-title> Package Loaded</ion-title>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div>
+    <h1>
+      {{specificPackage.id}}
+    </h1>
+  </div>
+  <div>
+    <ion-item>
+      {{specificPackage.city}}
+    </ion-item>
+  </div>
+  <div>
+    <ion-item>
+      {{specificPackage.country}}
+    </ion-item>
+  </div>
+  <div>
+    <ion-item>
+      {{specificPackage.details}}
+    </ion-item>
+  </div>
+  <div>
+    <ion-item>
+      {{specificPackage.ratings}}
+    </ion-item>
+  </div>
+</ion-content>

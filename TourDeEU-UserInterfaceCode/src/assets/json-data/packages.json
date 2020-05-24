@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "city": "Florence",
+        "country": "Italy",
+        "details": "Glamourous Santorini is deliciously different. Geographical newness is in part to thank.",
+        "ratings": 8,
+        "image":"./assets/Images/Florence/florence-1.jpg"
+    },
+    {
+        "id": 2,
+        "city": "Paris",
+        "country": "France",
+        "details": "Everyone who visits Paris for the first time probably has the same punchlist of major attractions to hit, The Louvre, Notre Dame, The Eiffel Tower, etc.",
+        "ratings": 10,
+        "image":"./assets/Images/Paris/paris1.jpg"
+    },
+    {
+        "id": 3,
+        "city": "London",
+        "country": "United Kingdom",
+        "details": "There's so much to see and do in London, it's easy to be overwhelmed. Major sights like the Tower of London and Buckingham Palace are on most visitors itineraries",
+        "ratings": 5,
+        "image":"./assets/Images/London/london1.jpg"
+    },
+    {
+        "id": 4,
+        "city": "Rome",
+        "country": "Italy",
+        "details": "In Rome, you can drink from a street fountain fed by an ancient aqueduct. Or see the same profile on a statue in the Capitoline Museum and the guy making your cappuccino.",
+        "ratings": 6,
+        "image":"./assets/Images/Rome/rome1.jpg"
+    },
+    {
+        "id": 5,
+        "city": "Crete",
+        "country": "Greece",
+        "details": "Crete is the largest of the Greek islands and is a paradise for tourists seeking sunshine, beaches, and culture. Chania lies on the northern coast of Crete.",
+        "ratings": 6,
+        "image":"./assets/Images/Crete/balos-lagoon.jpg"
+    },
+    {
+        "id": 6,
+        "city": "Istanbul",
+        "country": "Turkey",
+        "details": "Over the centuries many cultures have added their mark to this prized piece of land.Today you can experience those firsthand by exploring Istanbul mahalles neighbourhoods",
+        "ratings": 5,
+        "image":"./assets/Images/Istanbul/istanbul1.jpg"
+    },
+    {
+        "id": 7,
+        "city": "Barcelona",
+        "country": "Spain",
+        "details": "Enjoy Barcelona unique blend of Catalan culture, distinctive architecture, lively nightlife and trendy, stylish hotels.",
+        "ratings": 8,
+        "image":"./assets/Images/Barcelona/barcelona1.jpg"
+    },
+    {
+        "id": 8,
+        "city": "Prague",
+        "country": "Czech Republic",
+        "details": "Sure, everyone heard of it, but its still a grand city with extraordinary historic and cultural sights, and its definitely worth a visit.",
+        "ratings": 9,
+        "image":"./assets/Images/Prague/prague1.jpg"
+    },
+    {
+        "id": 9,
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "details": "Amsterdam is truly a biker city, although pedaling along the labyrinthine streets can get a little chaotic. Stick to walking and you will not be disappointed.",
+        "ratings": 10,
+        "image":"./assets/Images/Amsterdam/amsterdam.jpg"
+    },
+    {
+        "id": 10,
+        "city": "Lisbon",
+        "country": "Portugal",
+        "details": "Lisbon, the capital city of Portugal, has become an increasingly popular place to visit in recent years, with a warm Mediterranean climate in spite of its place facing the Atlantic Ocean.",
+        "ratings": 8,
+        "image":"./assets/Images/Lisbon/lisbon1.jpg"
+    },
+    {
+        "id": 11,
+        "city": "Majorca",
+        "country": "Balearic Islands",
+        "details": "The dreamy island that provided inspiration to Chopin and Miro now has a reputation as a spring break beach destination.",
+        "ratings": 7,
+        "image":"./assets/Images/Majorca/majorca1.jpg"
+    },
+    {
+        "id": 12,
+        "city": "Dublin",
+        "country": "Ireland",
+        "details": "fssd sfs",
+        "ratings": 4,
+        "image":"./assets/Images/Paris/paris1.jpg"
+    },
+    {
+        "id": 13,
+        "city": "Venice",
+        "country": "Italy",
+        "details": "Venice is definitely a city for one's bucket list. Waterfront palazzos, palaces, and churches make drifting down the Grand Canal feel like cruising through a painting.",
+        "ratings": 8,
+        "image":"./assets/Images/Venice/venice1.jpg"
+    },
+    {
+        "id": 14,
+        "city": "Geneva",
+        "country": "Switzerland",
+        "details": "Switzerland is definitely a city for one's bucket list",
+        "ratings": 10,
+        "image":"./assets/Images/Paris/paris1.jpg"
+    },
+    {
+        "id": 15,
+        "city": "Berlin",
+        "country": "Germany",
+        "details": "In progressive Berlin, the old buildings of Mitte gracefully coexist with the modern Reichstag. Do not miss top historic sights like the Berlin Wall, Checkpoint Charlie, the Brandenburg Gate and Potsdamer Platz.",
+        "ratings": 9,
+        "image":"./assets/Images/Berlin/berlin1.jpg"
+    },
+    {
+        "id": 16,
+        "city": "Vienna",
+        "country": "Austria",
+        "details": "If you currently think your neighbourhood coffee shop is nice, you might want to stay out of Vienna coffeehouses. After you have gotten used to these palatial, yet welcoming cafes.",
+        "ratings": 9,
+        "image":"./assets/Images/Vienna/vienna1.jpg"
+    },
+    {
+        "id": 17,
+        "city": "Krakow",
+        "country": "Poland",
+        "details": "The Wawel Castle, Main Square, St. Mary Church and Kazimierz Distric. Krakow, the city entered into the first list of the UNESCO World Heritage Sites, offers a wealth of history and architecture.",
+        "ratings": 8,
+        "image":"./assets/Images/Krakow/krakow1.jpg"
+    },
+    {
+        "id": 18,
+        "city": "Manavgat",
+        "country": "Turkey",
+        "details": "In the summer months, visitors arrive in droves to discover Manavgat's river and waterfall, as well as the nearby ancient Greco-Roman ruins.",
+        "ratings": 7,
+        "image":"./assets/Images/Manavgat/manavgat1.jpg"
+    }
+]
+

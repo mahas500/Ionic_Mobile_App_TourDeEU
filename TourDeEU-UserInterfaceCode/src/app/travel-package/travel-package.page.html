@@ -1,0 +1,36 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>TourDeEU</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div ion-no-padding>
+  <ion-list>
+    <ion-img class="imageMain" src="./assets/Images/jamaica.jpg"></ion-img>
+
+   <ion-item><h1>Below is the list of package details: </h1></ion-item>
+
+  
+
+    <ion-item *ngFor="let packagelist of packagelists">
+      <ion-avatar slot="start">
+      <ion-img [src]="packagelist.image"></ion-img> 
+      </ion-avatar> 
+      <ion-button (click)="viewImageInFull($event)">Click</ion-button>
+      
+      <ion-label ion-text-center>{{ packagelist.city }} </ion-label>
+      <ion-label ion-text-center> {{ packagelist.country }} </ion-label>
+      <ion-label ion-text-center><b> {{ packagelist.ratings }} </b></ion-label>
+   
+      
+    </ion-item>
+  </ion-list>
+</div>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar color="dark">
+    <ion-title>© 2019 Manik TourDeEU</ion-title>
+  </ion-toolbar>
+</ion-footer>

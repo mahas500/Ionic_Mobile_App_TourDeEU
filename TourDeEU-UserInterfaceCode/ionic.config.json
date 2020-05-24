@@ -1,0 +1,7 @@
+{
+  "name": "TourDeEU-UserInterfaceCode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
